@@ -1,26 +1,17 @@
-# This is a large heading
+# Raja Ikhlaq
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the United Kingdom, more specifically in the county of Essex.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Nineteen Eighty-Four* by George Orwel
+- *On the Marble Cliffs* by Ernst Jünger
+- *The Triggering Town* Richard Hugo
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
+The best way to get in touch with me is via my email: Rajasaud010199@gmail.com
